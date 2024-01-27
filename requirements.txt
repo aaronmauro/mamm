@@ -10,3 +10,4 @@ matplotlib
 scipy
 vega_datasets
 ipyvolume
+voila-material
